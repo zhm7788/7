@@ -1,0 +1,10 @@
+服务器地址
+https://justhost.ru/zh
+域名地址
+https://www.namesilo.com/
+域名解析地址
+https://dash.cloudflare.com/
+宝塔地址
+https://bt5.me/
+防红地址
+https://ipregistry.co/
